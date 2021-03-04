@@ -1,0 +1,29 @@
+Anaconda Power Shell
+
+python --version
+jupyter notebook
+
+git commit
+git push
+
+cd (arrastro la carpeta donde quiero que esté el repositorio)
+git clone https://github.com/Chomely/class1.git(pego el link de github del repositorio) Se sincronizan los archivos desde el computador
+cd (nombre carpeta repositorio o ubicación) ubicarse o arrastrar la carpeta
+dir (podemos ver lo que hay dentro de la carpeta
+git status (Para saber si han habido cambios en la carpeta) / origin main (indica que está de raíz la fuente)
+git status (Para saber si han habido cambios en la carpeta, se evidencia que se agrego un archivo a la carpeta desde el equipo)
+git add "nombrearchivo"(Subir información desde mi equipo a github)
+git commit -a -m "nombre del commit Ej. subir imagen del conejo" **Para hacer cualquier cambios en el repositorio
+
+Solo se logea una vez. Luego, logearse.
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your name"
+
+Una vez hecho esto, para verificar si esta Ok
+git config user.name
+git config user.email
+
+git add "nombrearchivo"(Verificar si se agrego)
+git status (El archivo está pero no se ha subido al repositorio)
+git push origin main(Me autentique en github, solo se hace un vez)
