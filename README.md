@@ -1,4 +1,5 @@
-PORTAFOLIO: PROCESAMIENTO DE LENGUAJE NATURAL 
+# PORTAFOLIO
+_NLP: Procesamiento de leguaje natural_ 🤓
 
 Especialización en Analítica Estratégica
 Fundación Universitaria Konrad Lorenz
